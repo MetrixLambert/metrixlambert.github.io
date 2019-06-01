@@ -35,7 +35,7 @@ This is Ethan's first blog，enjoy it ! :laughing:
 其优点非常明显：
 
 * **Markdown** 带来的优雅写作体验（与本地的 **Typora** 配合起来更是天作之合）
-* 非常熟悉的 **Git workflow** ，**Git Commit 即 Blog Post**
+* 非常熟悉的 **Git workflow** ，**Git Commit 即 Blog Post**(所有的变化都是直接先在本地做出更改，然后远程提交)
 * 利用 GitHub Pages 的域名和免费无限空间，不用考虑物理主机的问题
 	* 可能等以后有时间的话，自己折腾一下自己的 **Blog** 域名。
 * Jekyll 的自定制非常容易，基本就是个模版引擎
